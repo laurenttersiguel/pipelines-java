@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tersiguel/ltazdevopsproject/_apis/build/status/laurenttersiguel.pipelines-java?branchName=master)](https://dev.azure.com/tersiguel/ltazdevopsproject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
